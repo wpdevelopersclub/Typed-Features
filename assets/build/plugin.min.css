@@ -1,0 +1,9 @@
+/*!
+    Name:           Typed Feature
+    Description:    Type out the messages for a newsfeed style container.
+    Author:         WPDevelopersClub and hellofromTonya
+    Author URI:     https://wpdevelopersclub.com/
+    Version:        1.0.0
+    License:        GNU General Public License 2.0+
+    Copyright:      2015 WP Developers Club
+ */.typed-features{position:relative;min-height:40px;margin-bottom:30px;padding-left:20px}.typed-features::before{content:">";font-size:30px;top:-5px;left:0;opacity:0.5;position:absolute;text-shadow:1px 1px 0 #fff}.typed-features .typed-feature-item{text-align:left;display:none;color:#fff;font-size:22px}.typed-features .typed-feature-item.current{display:block}@media only screen and (min-device-width: 900px) and (max-device-width: 1024px){.typed-features{min-height:40px;padding-left:30px}.typed-features::before{font-size:40px;top:-10px}.typed-features .typed-feature-item{font-size:28px}}@media only screen and (min-device-width: 1025px){.typed-features{min-height:50px;margin-bottom:40px;padding-left:40px}.typed-features::before{font-size:50px;top:-15px}.typed-features .typed-feature-item{font-size:32px}}

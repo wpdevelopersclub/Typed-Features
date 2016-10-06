@@ -1,0 +1,18 @@
+//
+// Typed Feature
+//=========================
+
+.typed-features {
+
+    min-height: 40px;
+    padding-left: 30px;
+
+    &::before {
+        font-size: 40px;
+        top: -10px;
+    }
+
+    .typed-feature-item {
+        font-size: 28px;
+    }
+}
